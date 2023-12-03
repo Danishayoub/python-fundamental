@@ -1,0 +1,18 @@
+regno=int(input("Enter registration no: "))
+phy=int(input("Enter physics no: "))
+che=int(input("Enter chemistry no: "))
+maths=int(input("Enter Maths no: "))
+total=phy+che+maths
+agg=total/3
+print("=============================================")
+print("Registration no.           ::",regno)
+print("=============================================")
+print("Marks obtain in PHY        ::",phy)
+print("=============================================")
+print("Marks obtain in CHE        ::",che)
+print("=============================================")
+print("Marks obtain in MATH       ::",maths)
+print("=============================================")
+print("Total marks obtain         ::",total)
+print("=============================================")
+print("Aggregrate                 ::",agg)

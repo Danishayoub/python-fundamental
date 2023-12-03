@@ -1,0 +1,8 @@
+marks=int(input("Enter the marks"))
+marks2=int(input("Enter the marks"))
+marks3=int(input("Enter the marks"))
+marks4=int(input("Enter the marks"))
+print(marks)
+print(marks2)
+print(marks3)
+print(marks4)
